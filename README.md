@@ -8,4 +8,12 @@ Study about Go-lang
 
 시간 : 매주 화요일 7시 30분 
 
+교재 : go-lang book website [링크](http://codingnuri.com/golang-book/)
+
+일정표
+=============
+
+8월 16일 : 1장~6장(이동환), 7장~8장(장정훈)
+8월 23일 : 9장~12장(임성광)
+8월 30일 :
 
