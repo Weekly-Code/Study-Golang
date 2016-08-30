@@ -25,4 +25,4 @@ Study about Go-lang
 
 9월 13일 : 추석 연휴
 
-9월 20일 : 
+9월 20일 : test
