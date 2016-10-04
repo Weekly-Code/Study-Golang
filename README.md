@@ -25,4 +25,8 @@ Study about Go-lang
 
 9월 13일 : 추석 연휴
 
-9월 20일 : test
+9월 20일 : 정훈님 Backend challenge 설명
+
+9월 27일 : 프로젝트 계획 모의
+
+10월 4일 : 다음주까지 블로그 만들어보기 ( [The Book](https://thebook.io/006806/) )
